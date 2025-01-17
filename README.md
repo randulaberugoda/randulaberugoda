@@ -9,7 +9,6 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 ### 🌟 **About Me**
 - 🎓 Undergraduate at SLIIT City University
 - 💻 Currently learning **Flutter** and **Android Development**
-- 🚗 Supercar fanatic ❤️
 - 🌍 Open to **collaboration** and **new opportunities**
 
 ---
