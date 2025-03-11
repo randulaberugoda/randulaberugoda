@@ -48,6 +48,7 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 ### 📈 **GitHub Stats**
 ![Randula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randula&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randula&layout=compact&theme=radical)
+![Randula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randula&show_icons=true&theme=radical)
 
 ---
 
