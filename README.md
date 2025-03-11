@@ -45,9 +45,19 @@ Feel free to explore my work and connect with me. I'm always eager to learn, col
 
 ---
 
-### 📈 **GitHub Stats**
-![Randula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randula&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randula&layout=compact&theme=radical)
+### 🚀 GitHub Stats & Contributions
+![Randula's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=randula&theme=radical)  
+![Randula's GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randula&theme=radical)  
+![Randula's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=randula&theme=radical)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=randula&theme=radical)  
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=randula&theme=radical)  
+
+### 🔥 Total Contributions in 2025
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=randula&theme=radical)  
+
+### ⚙️ Technology Stack
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,java,flutter,react,nodejs,mysql,git,github,vscode,androidstudio,figma&theme=dark)
+
 
 ---
 
